@@ -1,0 +1,141 @@
+order_id,order_date,customer_id,city,category,quantity,unit_price,discount_pct,payment,status,gross_amount,net_amount
+2001,,C015,Izmir,Food,5,399.0,10,Cash,Delivered,1995.0,1795.5
+2002,,C008,Izmir,Tourism,5,79.0,15,Cash,Delivered,395.0,335.75
+2003,2025-01-15,C022,Bursa,Beauty,1,49.0,5,Transfer,Delivered,49.0,46.55
+2004,,C015,Unknown,Tourism,1,99.0,0,Transfer,Returned,99.0,99.0
+2005,,C021,Istanbul,Sports,4,699.0,5,Cash,Delivered,2796.0,2656.2
+2007,,C004,Ankara,Tourism,1,299.0,0,Cash,Returned,299.0,299.0
+2008,2025-01-15,C012,Ankara,Sports,1,149.0,0,Cash,Returned,149.0,149.0
+2009,,C013,Ankara,Food,2,699.0,20,Credit Card,Delivered,1398.0,1118.4
+2010,,C007,Istanbul,Electronics,4,499.0,10,Transfer,Delivered,1996.0,1796.4
+2011,,C001,Izmir,Food,2,399.0,15,Cash,Delivered,798.0,678.3
+2012,,C002,Istanbul,Tourism,5,99.0,10,Cash,Delivered,495.0,445.5
+2013,,C014,Izmir,Electronics,5,999.0,0,Transfer,Delivered,4995.0,4995.0
+2015,,C013,Izmir,Fashion,1,1899.0,20,Cash,Delivered,1899.0,1519.2
+2016,2025-01-15,C012,Antalya,Beauty,1,1499.0,0,Cash,Returned,1499.0,1499.0
+2017,,C020,Bursa,Electronics,3,399.0,0,Cash,Delivered,1197.0,1197.0
+2018,,C010,Antalya,Fashion,1,499.0,0,Credit Card,Returned,499.0,499.0
+2019,,C012,Unknown,Sports,3,49.0,0,Credit Card,Delivered,147.0,147.0
+2020,2025-01-15,C022,Bursa,Electronics,1,99.0,20,Cash,Delivered,99.0,79.2
+2021,2025-01-15,C023,Antalya,Fashion,3,49.0,15,Transfer,Cancelled,147.0,124.95
+2022,,C016,Istanbul,Electronics,4,1499.0,10,Cash,Cancelled,5996.0,5396.400000000001
+2023,,C019,Ankara,Fashion,3,149.0,0,Transfer,Returned,447.0,447.0
+2024,,C018,Istanbul,Fashion,4,699.0,0,Credit Card,Delivered,2796.0,2796.0
+2025,,C016,Ankara,Electronics,4,1899.0,0,Credit Card,Delivered,7596.0,7596.0
+2026,,C005,Izmir,Electronics,1,99.0,15,Transfer,Delivered,99.0,84.14999999999999
+2027,,C024,Antalya,Fashion,1,499.0,0,Cash,Returned,499.0,499.0
+2028,,C003,Istanbul,Food,2,79.0,20,Cash,Delivered,158.0,126.4
+2029,,C001,Unknown,Food,4,499.0,0,Transfer,Delivered,1996.0,1996.0
+2030,,C019,Unknown,Tourism,1,299.0,10,Cash,Cancelled,299.0,269.1
+2031,,C002,Bursa,Tourism,1,1899.0,20,Transfer,Delivered,1899.0,1519.2
+2032,,C004,Izmir,Electronics,1,1899.0,0,Cash,Cancelled,1899.0,1899.0
+2033,,C009,Bursa,Food,1,199.0,15,Transfer,Delivered,199.0,169.15
+2034,,C021,Istanbul,Fashion,2,699.0,10,Cash,Delivered,1398.0,1258.2
+2035,2025-01-15,C015,Unknown,Sports,3,999.0,0,Cash,Delivered,2997.0,2997.0
+2036,,C022,Bursa,Sports,2,99.0,20,Cash,Delivered,198.0,158.4
+2037,,C004,Bursa,Beauty,1,499.0,10,Cash,Returned,499.0,449.1
+2038,2025-01-15,C002,Unknown,Fashion,1,999.0,0,Transfer,Cancelled,999.0,999.0
+2039,,C020,Ankara,Tourism,1,1499.0,20,Credit Card,Delivered,1499.0,1199.2
+2040,,C007,Antalya,Tourism,5,149.0,15,Cash,Delivered,745.0,633.25
+2041,,C010,Unknown,Fashion,1,499.0,15,Transfer,Delivered,499.0,424.15
+2042,,C021,Unknown,Electronics,4,199.0,5,Credit Card,Delivered,796.0,756.1999999999999
+2043,,C022,Istanbul,Food,5,49.0,0,Credit Card,Cancelled,245.0,245.0
+2044,,C016,Izmir,Food,1,699.0,20,Credit Card,Returned,699.0,559.2
+2045,2025-01-15,C020,Bursa,Beauty,2,999.0,0,Credit Card,Returned,1998.0,1998.0
+2046,,C010,Unknown,Food,4,79.0,5,Transfer,Delivered,316.0,300.2
+2047,,C024,Bursa,Food,4,499.0,0,Transfer,Delivered,1996.0,1996.0
+2048,,C020,Antalya,Sports,3,1899.0,20,Credit Card,Delivered,5697.0,4557.6
+2049,,C003,Istanbul,Electronics,2,1499.0,15,Credit Card,Cancelled,2998.0,2548.2999999999997
+2050,,C019,Ankara,Fashion,1,999.0,5,Credit Card,Delivered,999.0,949.05
+2051,,C009,Antalya,Sports,5,79.0,20,Credit Card,Delivered,395.0,316.0
+2052,,C004,Ankara,Food,1,499.0,10,Transfer,Delivered,499.0,449.1
+2053,,C007,Unknown,Food,4,49.0,0,Transfer,Cancelled,196.0,196.0
+2054,,C017,Unknown,Beauty,1,299.0,10,Credit Card,Delivered,299.0,269.1
+2055,,C009,Izmir,Beauty,1,399.0,10,Cash,Returned,399.0,359.1
+2056,,C005,Izmir,Beauty,1,149.0,15,Transfer,Cancelled,149.0,126.64999999999999
+2057,,C007,Bursa,Food,2,999.0,20,Transfer,Delivered,1998.0,1598.4
+2058,,C011,Ankara,Beauty,1,999.0,0,Cash,Returned,999.0,999.0
+2059,2025-01-15,C013,Ankara,Electronics,2,1499.0,20,Cash,Delivered,2998.0,2398.4
+2060,,C008,Bursa,Electronics,1,149.0,20,Credit Card,Delivered,149.0,119.2
+2061,,C019,Bursa,Beauty,1,399.0,5,Transfer,Delivered,399.0,379.04999999999995
+2062,,C013,Bursa,Sports,4,999.0,0,Credit Card,Delivered,3996.0,3996.0
+2063,2025-01-15,C017,Istanbul,Electronics,1,199.0,15,Cash,Delivered,199.0,169.15
+2064,,C015,Bursa,Tourism,5,1499.0,10,Credit Card,Returned,7495.0,6745.5
+2065,2025-01-15,C015,Istanbul,Electronics,1,49.0,0,Credit Card,Delivered,49.0,49.0
+2066,,C016,Unknown,Beauty,4,199.0,15,Cash,Returned,796.0,676.6
+2067,,C018,Antalya,Beauty,5,699.0,0,Transfer,Delivered,3495.0,3495.0
+2068,,C016,Bursa,Food,1,99.0,10,Credit Card,Delivered,99.0,89.10000000000001
+2069,,C002,Ankara,Tourism,2,1499.0,0,Credit Card,Cancelled,2998.0,2998.0
+2070,,C015,Istanbul,Fashion,5,999.0,0,Transfer,Delivered,4995.0,4995.0
+2071,,C001,Ankara,Electronics,3,49.0,0,Credit Card,Returned,147.0,147.0
+2072,2025-01-15,C003,Bursa,Food,5,199.0,10,Cash,Delivered,995.0,895.5
+2074,,C008,Ankara,Sports,2,299.0,10,Cash,Delivered,598.0,538.2
+2075,2025-01-15,C012,Bursa,Tourism,1,1499.0,20,Credit Card,Delivered,1499.0,1199.2
+2076,,C019,Unknown,Beauty,2,299.0,5,Cash,Delivered,598.0,568.1
+2077,,C002,Antalya,Electronics,1,49.0,0,Transfer,Returned,49.0,49.0
+2078,,C005,Bursa,Beauty,2,499.0,0,Credit Card,Delivered,998.0,998.0
+2080,,C023,Izmir,Tourism,4,499.0,10,Credit Card,Delivered,1996.0,1796.4
+2081,2025-01-15,C019,Izmir,Food,5,79.0,0,Cash,Cancelled,395.0,395.0
+2082,,C009,Antalya,Sports,1,79.0,20,Credit Card,Delivered,79.0,63.2
+2083,,C015,Istanbul,Tourism,1,1499.0,0,Transfer,Cancelled,1499.0,1499.0
+2084,,C017,Izmir,Food,4,499.0,15,Cash,Delivered,1996.0,1696.6
+2085,2025-01-15,C013,Ankara,Tourism,3,499.0,0,Transfer,Delivered,1497.0,1497.0
+2086,,C018,Ankara,Tourism,3,99.0,20,Transfer,Delivered,297.0,237.60000000000002
+2087,,C017,Unknown,Sports,1,1899.0,20,Credit Card,Delivered,1899.0,1519.2
+2088,2025-01-15,C003,Istanbul,Food,2,149.0,0,Transfer,Delivered,298.0,298.0
+2089,,C005,Unknown,Beauty,2,79.0,20,Transfer,Delivered,158.0,126.4
+2090,,C021,Unknown,Food,1,299.0,0,Transfer,Returned,299.0,299.0
+2091,2025-01-15,C024,Istanbul,Fashion,3,499.0,0,Credit Card,Returned,1497.0,1497.0
+2092,,C004,Unknown,Tourism,1,499.0,0,Cash,Delivered,499.0,499.0
+2093,,C008,Ankara,Fashion,5,1899.0,0,Credit Card,Delivered,9495.0,9495.0
+2094,,C020,Istanbul,Beauty,1,999.0,0,Cash,Cancelled,999.0,999.0
+2095,,C011,Izmir,Electronics,1,79.0,5,Cash,Cancelled,79.0,75.05
+2096,,C002,Antalya,Electronics,5,699.0,10,Credit Card,Delivered,3495.0,3145.5
+2097,,C003,Unknown,Electronics,5,1899.0,10,Cash,Cancelled,9495.0,8545.5
+2099,,C021,Bursa,Food,3,1499.0,0,Cash,Delivered,4497.0,4497.0
+2100,2025-01-15,C018,Unknown,Fashion,5,299.0,0,Credit Card,Delivered,1495.0,1495.0
+2101,,C002,Unknown,Food,3,399.0,10,Transfer,Delivered,1197.0,1077.3
+2102,,C015,Bursa,Electronics,4,399.0,20,Transfer,Returned,1596.0,1276.8000000000002
+2103,,C005,Izmir,Electronics,1,149.0,5,Cash,Delivered,149.0,141.54999999999998
+2105,,C013,Ankara,Fashion,3,99.0,10,Cash,Delivered,297.0,267.3
+2106,2025-01-15,C010,Unknown,Tourism,2,1499.0,0,Cash,Cancelled,2998.0,2998.0
+2107,,C008,Antalya,Fashion,4,1899.0,5,Credit Card,Cancelled,7596.0,7216.2
+2108,2025-01-15,C009,Unknown,Fashion,5,499.0,0,Credit Card,Delivered,2495.0,2495.0
+2109,2025-01-15,C014,Antalya,Tourism,1,49.0,20,Transfer,Delivered,49.0,39.2
+2110,,C010,Antalya,Electronics,5,999.0,15,Credit Card,Delivered,4995.0,4245.75
+2111,2025-01-15,C002,Ankara,Fashion,2,1499.0,10,Credit Card,Delivered,2998.0,2698.2000000000003
+2112,2025-01-15,C024,Istanbul,Beauty,1,199.0,20,Credit Card,Delivered,199.0,159.20000000000002
+2113,2025-01-15,C018,Bursa,Electronics,1,149.0,15,Credit Card,Delivered,149.0,126.64999999999999
+2114,,C008,Istanbul,Electronics,5,399.0,10,Transfer,Delivered,1995.0,1795.5
+2115,,C017,Bursa,Food,1,499.0,0,Transfer,Delivered,499.0,499.0
+2116,2025-01-15,C002,Unknown,Beauty,1,79.0,15,Cash,Delivered,79.0,67.14999999999999
+2117,,C007,Izmir,Sports,2,99.0,15,Cash,Delivered,198.0,168.29999999999998
+2118,,C018,Bursa,Electronics,1,399.0,20,Transfer,Delivered,399.0,319.20000000000005
+2119,,C005,Izmir,Fashion,1,1899.0,10,Transfer,Delivered,1899.0,1709.1000000000001
+2120,,C024,Unknown,Fashion,4,149.0,0,Credit Card,Cancelled,596.0,596.0
+2121,2025-01-15,C007,Ankara,Electronics,5,99.0,15,Credit Card,Delivered,495.0,420.75
+2122,2025-01-15,C001,Bursa,Beauty,3,999.0,10,Transfer,Delivered,2997.0,2697.3
+2123,,C005,Bursa,Tourism,1,699.0,15,Cash,Cancelled,699.0,594.15
+2124,2025-01-15,C012,Istanbul,Sports,1,499.0,5,Transfer,Delivered,499.0,474.04999999999995
+2125,,C008,Ankara,Food,1,399.0,0,Credit Card,Delivered,399.0,399.0
+2126,,C013,Ankara,Food,3,299.0,5,Cash,Cancelled,897.0,852.15
+2127,2025-01-15,C017,Bursa,Electronics,1,999.0,5,Transfer,Cancelled,999.0,949.05
+2129,,C014,Ankara,Beauty,1,1499.0,20,Credit Card,Delivered,1499.0,1199.2
+2130,,C021,Izmir,Fashion,4,49.0,0,Transfer,Delivered,196.0,196.0
+2131,,C022,Unknown,Food,1,999.0,10,Transfer,Returned,999.0,899.1
+2132,,C013,Izmir,Sports,1,999.0,0,Cash,Cancelled,999.0,999.0
+2133,,C011,Ankara,Electronics,3,99.0,15,Cash,Cancelled,297.0,252.45
+2134,2025-01-15,C002,Antalya,Fashion,5,1899.0,0,Transfer,Delivered,9495.0,9495.0
+2135,,C023,Istanbul,Beauty,1,499.0,0,Transfer,Cancelled,499.0,499.0
+2136,,C006,Istanbul,Sports,1,1899.0,5,Transfer,Delivered,1899.0,1804.05
+2137,,C010,Istanbul,Sports,5,299.0,0,Cash,Cancelled,1495.0,1495.0
+2138,2025-01-15,C023,Bursa,Sports,1,149.0,5,Transfer,Delivered,149.0,141.54999999999998
+2141,,C010,Antalya,Tourism,2,399.0,5,Transfer,Delivered,798.0,758.0999999999999
+2142,,C013,Ankara,Fashion,3,399.0,20,Cash,Returned,1197.0,957.6
+2143,2025-01-15,C021,Antalya,Electronics,4,699.0,15,Cash,Delivered,2796.0,2376.6
+2144,,C003,Bursa,Tourism,1,79.0,0,Cash,Cancelled,79.0,79.0
+2145,2025-01-15,C015,Istanbul,Electronics,1,499.0,20,Transfer,Delivered,499.0,399.20000000000005
+2147,,C022,Bursa,Fashion,5,999.0,0,Transfer,Delivered,4995.0,4995.0
+2148,2025-01-15,C003,Unknown,Food,5,299.0,0,Transfer,Delivered,1495.0,1495.0
+2149,,C010,Izmir,Sports,2,49.0,0,Transfer,Delivered,98.0,98.0
+2150,,C009,Antalya,Tourism,5,79.0,10,Transfer,Delivered,395.0,355.5
